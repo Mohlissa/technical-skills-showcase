@@ -89,7 +89,7 @@ Using the link in my github(https) to clone my repo
 - I built by using `npm run build`
 - Installed **vite** after realizing it has not been installed, `npm run build` again
 - I pasted my subdomain in my browser and boom there comes my web page
-  ![💡 A confirmation of my domain page](./src/assets/subdomain)
+  ![💡 A confirmation of my domain page](./src/assets/subdomain.png)
   I further pasted my IP address in the browser even though this part was not secured
   ![💡 Here comes the confirmation of my IP address page](./src/assets/address.png)
 
